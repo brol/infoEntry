@@ -15,12 +15,12 @@ $this->registerModule(
 		/* Name */			'infoEntry',
 		/* Description */		'Display all information on current entry',
 		/* Author */			'Tomtom, Pierre Van Glabeke',
-		/* Version */			'1.2.1',
+		/* Version */			'1.2.2',
 	/* Properties */
 	array(
 		'permissions' => 'admin',
 		'type' => 'plugin',
-		'dc_min' => '2.6',
+		'dc_min' => '2.9',
 		'support' => 'http://forum.dotclear.org/viewtopic.php?pid=332949#p332949',
 		'details' => 'http://plugins.dotaddict.org/dc2/details/infoEntry'
 		)

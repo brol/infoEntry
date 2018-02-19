@@ -1,92 +1,97 @@
+# Language: Français
+# Module: infoEntry - 1.2.2
+# Date: 2018-02-19 14:15:58
+# Translated with translater 2018.02.14
+
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
-"Project-Id-Version: \n"
+"Project-Id-Version: infoEntry 1.2.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: brol <contact@brol.info>\n"
+"PO-Revision-Date: 2018-02-19T14:15:58+00:00\n"
+"Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: _public.php:68
+#: _public.php:65
 msgid "Next entry: %s"
 msgstr "Billet suivant&nbsp;: %s"
 
-#: _public.php:71
+#: _public.php:68
 msgid "Previous entry: %s"
 msgstr "Billet précédent&nbsp;: %s"
 
-#: _public.php:74
+#: _public.php:71
 msgid "Next entry in category: %s"
 msgstr "Billet suivant dans la catégorie&nbsp;: %s"
 
-#: _public.php:77
+#: _public.php:74
 msgid "Previous entry in category: %s"
 msgstr "Billet précédent dans la catégorie&nbsp;: %s"
 
-#: _widgets.php:26
+#: _widgets.php:25
 msgid "InfoEntry: information about entry"
 msgstr "InfoEntry : informations sur le billet"
 
-#: _define.php:17
-#: _widgets.php:28
+#: _widgets.php:27
 msgid "Display all information on current entry"
 msgstr "Afficher toutes les informations sur le billet courant"
 
-#: _widgets.php:29
+#: _widgets.php:28
 msgid "Information about entry"
 msgstr "Informations sur le billet"
 
-#: _widgets.php:30
+#: _widgets.php:29
 msgid "Display author"
 msgstr "Afficher le lien vers l'auteur"
 
-#: _widgets.php:31
+#: _widgets.php:30
 msgid "Display date"
 msgstr "Afficher la date"
 
-#: _widgets.php:32
+#: _widgets.php:31
 msgid "Date format (leave empty to use default format):"
 msgstr "Format de la date (laisser vide pour utiliser le format par défaut) :"
 
-#: _widgets.php:33
+#: _widgets.php:32
 msgid "Display category"
 msgstr "Afficher le lien vers la catégorie"
 
-#: _widgets.php:34
+#: _widgets.php:33
 msgid "Display feed"
 msgstr "Afficher le lien du fil"
 
-#: _widgets.php:35
+#: _widgets.php:34
 msgid "Feed format:"
 msgstr "Format du fil :"
 
-#: _widgets.php:36
+#: _widgets.php:35
 msgid "RSS"
 msgstr "RSS"
 
-#: _widgets.php:36
+#: _widgets.php:35
 msgid "Atom"
 msgstr "Atom"
 
-#: _widgets.php:38
+#: _widgets.php:37
 msgid "Display tags"
 msgstr "Afficher les mots-clés"
 
-#: _widgets.php:45
+#: _widgets.php:44
 msgid "Display next entry"
 msgstr "Afficher le lien vers le billet suivant"
 
-#: _widgets.php:46
+#: _widgets.php:45
 msgid "Display previous entry"
 msgstr "Afficher le lien vers le billet précédent"
 
-#: _widgets.php:47
+#: _widgets.php:46
 msgid "Display next same category's entry"
 msgstr "Afficher le lien vers le billet suivant de la catégorie"
 
-#: _widgets.php:48
+#: _widgets.php:47
 msgid "Display previous same category's entry"
 msgstr "Afficher le lien vers le billet précédent de la catégorie"
 

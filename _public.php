@@ -60,7 +60,6 @@ class infoEntryPublic
 				$res .= '<li class="info-tags">'.$link.'</li>';
 			}
 
-			//$res .= '</ul>';
 		}
 		if ($w->displaynextentry) {
 			$res .= infoEntryPublic::getRelatedPost(__('Next entry: %s'),'info-next-entry',1);
